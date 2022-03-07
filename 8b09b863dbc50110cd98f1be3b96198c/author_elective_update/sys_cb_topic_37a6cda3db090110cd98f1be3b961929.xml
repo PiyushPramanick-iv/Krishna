@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="DELETE">
+        <applicability/>
+        <applicability_mode>query</applicability_mode>
+        <autopilot_topic>false</autopilot_topic>
+        <category>6d51816bdbc50110cd98f1be3b961989</category>
+        <channels/>
+        <connect_queue/>
+        <description>This is out of the BOX.</description>
+        <expose_on_palette>false</expose_on_palette>
+        <flexible_conversation_switching>false</flexible_conversation_switching>
+        <graph>{"graph_api_version":"1.0.36","variables":{},"goals":{"primary":{"id":"primary","trigger":{"type":"primary"},"name":"primary","applicability":"","description":"","nodes":{"b8ab175131ca4a1c8b80c54ce03ddf87":{"id":"b8ab175131ca4a1c8b80c54ce03ddf87","stepType":"Start","name":"Start","greetingResponse":{"mode":"simple","value":""}},"e48ce0eb4da04ac48285d417d657a07f":{"id":"e48ce0eb4da04ac48285d417d657a07f","stepType":"TerminateGoal","name":"End","confirmationMessage":{"mode":"simple","value":""}}},"edges":[{"id":"a187b885d17848218a62aaa00463475d","edgeType":"Edge","source":"b8ab175131ca4a1c8b80c54ce03ddf87","target":"e48ce0eb4da04ac48285d417d657a07f","sourcePort":"","targetPort":""}]}}}</graph>
+        <key_phrases>Create incident from Chat,create,create incident,issues</key_phrases>
+        <library>false</library>
+        <live_agent>false</live_agent>
+        <name>Create incident from Chat</name>
+        <nlu_intent/>
+        <nlu_intent_label/>
+        <nlu_model/>
+        <nlu_model_label/>
+        <nlu_provider/>
+        <palette_label/>
+        <roles/>
+        <source_topic_id/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 14:53:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>37a6cda3db090110cd98f1be3b961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create incident from Chat</sys_name>
+        <sys_package display_value="CI NLU - Krishna " source="8b09b863dbc50110cd98f1be3b96198c">8b09b863dbc50110cd98f1be3b96198c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</sys_scope>
+        <sys_update_name>sys_cb_topic_37a6cda3db090110cd98f1be3b961929</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 14:53:25</sys_updated_on>
+        <triggerable_by_notification>false</triggerable_by_notification>
+        <type>STANDARD</type>
+        <variables/>
+    </sys_cb_topic>
+    <sys_variable_value action="DELETE" query="document_key=37a6cda3db090110cd98f1be3b961929"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</application>
+        <file_path/>
+        <instance_id>3d1fa96cdb4ef60089535d00cf961994</instance_id>
+        <instance_name>dev34182</instance_name>
+        <name>sys_cb_topic_37a6cda3db090110cd98f1be3b961929</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic"><sys_cb_topic action="INSERT_OR_UPDATE"><applicability/><applicability_mode>query</applicability_mode><autopilot_topic>false</autopilot_topic><category>6d51816bdbc50110cd98f1be3b961989</category><channels/><connect_queue/><description>This is out of the BOX.</description><expose_on_palette>false</expose_on_palette><flexible_conversation_switching>false</flexible_conversation_switching><graph>{"graph_api_version":"1.0.36","variables":{},"goals":{"primary":{"id":"primary","trigger":{"type":"primary"},"name":"primary","applicability":"","description":"","nodes":{"b8ab175131ca4a1c8b80c54ce03ddf87":{"id":"b8ab175131ca4a1c8b80c54ce03ddf87","stepType":"Start","name":"Start","greetingResponse":{"mode":"simple","value":""}},"e48ce0eb4da04ac48285d417d657a07f":{"id":"e48ce0eb4da04ac48285d417d657a07f","stepType":"TerminateGoal","name":"End","confirmationMessage":{"mode":"simple","value":""}}},"edges":[{"id":"a187b885d17848218a62aaa00463475d","edgeType":"Edge","source":"b8ab175131ca4a1c8b80c54ce03ddf87","target":"e48ce0eb4da04ac48285d417d657a07f","sourcePort":"","targetPort":""}]}}}</graph><key_phrases>Create incident from Chat,create,create incident,issues</key_phrases><library>false</library><live_agent>false</live_agent><name>Create incident from Chat</name><nlu_intent/><nlu_intent_label/><nlu_model/><nlu_model_label/><nlu_provider/><palette_label/><roles/><source_topic_id/><sys_class_name>sys_cb_topic</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-20 14:53:25</sys_created_on><sys_domain>global</sys_domain><sys_id>37a6cda3db090110cd98f1be3b961929</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create incident from Chat</sys_name><sys_package display_value="CI NLU - Krishna " source="8b09b863dbc50110cd98f1be3b96198c">8b09b863dbc50110cd98f1be3b96198c</sys_package><sys_policy/><sys_scope display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</sys_scope><sys_update_name>sys_cb_topic_37a6cda3db090110cd98f1be3b961929</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-20 14:53:25</sys_updated_on><triggerable_by_notification>false</triggerable_by_notification><type>STANDARD</type><variables/></sys_cb_topic><sys_variable_value action="delete_multiple" query="document_key=37a6cda3db090110cd98f1be3b961929"/></record_update>]]></payload>
+        <payload_hash>-235938775</payload_hash>
+        <record_name>Create incident from Chat</record_name>
+        <reverted_from/>
+        <source>a9a53e098d272010d152b9319a2024ca</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 14:53:25</sys_created_on>
+        <sys_id>fba681e3db090110cd98f1be3b9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e77fa65860000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 14:53:25</sys_updated_on>
+        <type>Topic</type>
+        <update_guid>37a681e3df0901108ecf10553ab161fd</update_guid>
+        <update_guid_history>37a681e3df0901108ecf10553ab161fd:-235938775</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 16:00:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_cb_topic">sys_cb_topic</sys_db_object>
+        <sys_id>559fc5f2874441fcb0edf26f80257e10</sys_id>
+        <sys_metadata>37a6cda3db090110cd98f1be3b961929</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create incident from Chat</sys_name>
+        <sys_package display_value="CI NLU - Krishna " source="8b09b863dbc50110cd98f1be3b96198c">8b09b863dbc50110cd98f1be3b96198c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</sys_scope>
+        <sys_scope_delete display_value="">427756f0f0cf4a8fba37a612ed1cff49</sys_scope_delete>
+        <sys_update_name>sys_cb_topic_37a6cda3db090110cd98f1be3b961929</sys_update_name>
+        <sys_update_version display_value="sys_cb_topic_37a6cda3db090110cd98f1be3b961929">fba681e3db090110cd98f1be3b9619fd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 16:00:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

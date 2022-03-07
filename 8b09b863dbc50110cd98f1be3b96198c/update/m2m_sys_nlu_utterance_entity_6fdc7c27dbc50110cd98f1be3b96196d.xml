@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE">
+        <annotation>[{"start":5,"end":10,"annotatedString":"i am {{phrase=\"facing\"}} issue with my portal","cat":null}]</annotation>
+        <entity display_value="incident">55ac74e3dbc50110cd98f1be3b961925</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 14:10:32</sys_created_on>
+        <sys_id>6fdc7c27dbc50110cd98f1be3b96196d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>incident.i am facing issue with my portal</sys_name>
+        <sys_package display_value="CI NLU - Krishna " source="8b09b863dbc50110cd98f1be3b96198c">8b09b863dbc50110cd98f1be3b96198c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_6fdc7c27dbc50110cd98f1be3b96196d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 14:17:00</sys_updated_on>
+        <utterance display_value="i am facing issue with my portal">0ebab0a3dbc50110cd98f1be3b9619f2</utterance>
+    </m2m_sys_nlu_utterance_entity>
+</record_update>

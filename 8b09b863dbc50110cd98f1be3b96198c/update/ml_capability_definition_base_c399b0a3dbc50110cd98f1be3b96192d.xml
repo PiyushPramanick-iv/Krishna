@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ml_capability_definition_base">
+    <ml_capability_definition_base action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <capability display_value="NLU">b4ddf73453c73300d1dcddeeff7b1288</capability>
+        <current_solution_version>1</current_solution_version>
+        <dataset_language>en</dataset_language>
+        <fields/>
+        <filter/>
+        <request_source>api</request_source>
+        <solution_label>ml_x_680950_global_global_cb99fc23dbc50110cd98f1be3b9619ce</solution_label>
+        <solution_name>ml_x_680950_global_global_cb99fc23dbc50110cd98f1be3b9619ce</solution_name>
+        <solution_parameters/>
+        <solution_properties>{"authoringModel":{"intents":[{"name":"issues","samples":[{"utterance":"i am facing issue with my portal"},{"utterance":"i want help"},{"utterance":"i forgot my password"},{"utterance":"i want to reset my password"},{"utterance":"create incident"},{"utterance":"I want to create incident"},{"utterance":"I am facing to load service portal"},{"utterance":"problem"}],"entities":[{"name":"incident","samples":[{"entityAnnotation":"i want {{phrase\u003d\"help\"}}"},{"entityAnnotation":"i am {{phrase\u003d\"facing\"}} issue with my portal"},{"entityAnnotation":"create {{phrase\u003d\"incident\"}}"},{"entityAnnotation":"i forgot my {{phrase\u003d\"password\"}}"},{"entityAnnotation":"{{phrase\u003d\"problem\"}}"}]},{"name":"Issue","samples":[{"entityAnnotation":"I want to {{phrase\u003d\"create\"}} incident"},{"entityAnnotation":"i want to {{phrase\u003d\"reset\"}} my password"},{"entityAnnotation":"i am facing {{phrase\u003d\"issue\"}} with my portal"}]}]},{"name":"ResolveIncident","samples":[{"utterance":"I have completed work on INC1234567"},{"utterance":"finished working on the incident"},{"utterance":"INC1234567 has been completed"},{"utterance":"fix incidents"},{"utterance":"The issue I am working on is resolved"},{"utterance":"i resolved the issue"},{"utterance":"I want to resolve an incident"},{"utterance":"close incident INC0010009 for me"},{"utterance":"mark the incident as closed"},{"utterance":"How do I mark INC1234567 as resolved"},{"utterance":"The ticket I am working on needs to be closed"},{"utterance":"How do I resolve a ticket"},{"utterance":"mark an incident as resolved"},{"utterance":"close an incident"},{"utterance":"please resolve incident INC0010009"},{"utterance":"INC1234567 needs to be closed"},{"utterance":"resolved the incident"},{"utterance":"Where to I resolve an incident"},{"utterance":"I fixed an incident"},{"utterance":"can you close the ticket"},{"utterance":"I solved the incident"},{"utterance":"How do I close an incident"}],"entities":[]}],"schemaVersion":"NY-1","vocabulary":[],"modelPurpose":"virtual_agent","entities":[{"name":"ticketnumber","samples":[{"pattern":"\\b(?i)(INC|RITM)\\d{0,}\\b"}]}],"confidenceThreshold":"0.6","lookupSources":[],"name":"ml_x_680950_global_global_cb99fc23dbc50110cd98f1be3b9619ce","language":"en","version":"rome.0"},"label":"ml_x_680950_global_global_cb99fc23dbc50110cd98f1be3b9619ce","name":"ml_x_680950_global_global_cb99fc23dbc50110cd98f1be3b9619ce","nluTrainingMode":"IntentClassifier","g_bn":"Rome","g_jv":"20.5.0.7","g_bt":"glide-rome-06-23-2021__patch5-12-15-2021","trainingMode":"sync"}</solution_properties>
+        <stopwords>a6282a25533333008c5bddeeff7b12c3</stopwords>
+        <sys_class_name>ml_capability_definition_base</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 13:56:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>c399b0a3dbc50110cd98f1be3b96192d</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>ml_x_680950_global_global_cb99fc23dbc50110cd98f1be3b9619ce</sys_name>
+        <sys_package display_value="CI NLU - Krishna " source="8b09b863dbc50110cd98f1be3b96198c">8b09b863dbc50110cd98f1be3b96198c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</sys_scope>
+        <sys_update_name>ml_capability_definition_base_c399b0a3dbc50110cd98f1be3b96192d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 14:21:25</sys_updated_on>
+        <table/>
+        <training_frequency>run_once</training_frequency>
+        <word_vector_corpus/>
+    </ml_capability_definition_base>
+</record_update>

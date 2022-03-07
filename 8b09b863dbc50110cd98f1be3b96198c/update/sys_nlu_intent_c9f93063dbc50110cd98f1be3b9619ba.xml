@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_intent">
+    <sys_nlu_intent action="INSERT_OR_UPDATE">
+        <confidence_threshold>0.6</confidence_threshold>
+        <description>This is intent name for Create incident.</description>
+        <enable>true</enable>
+        <model display_value="CI Self Service">cb99fc23dbc50110cd98f1be3b9619ce</model>
+        <name>issues</name>
+        <origin/>
+        <override_confidence_threshold>false</override_confidence_threshold>
+        <primary_intent/>
+        <status>draft</status>
+        <sys_class_name>sys_nlu_intent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 13:57:48</sys_created_on>
+        <sys_id>c9f93063dbc50110cd98f1be3b9619ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>issues</sys_name>
+        <sys_package display_value="CI NLU - Krishna " source="8b09b863dbc50110cd98f1be3b96198c">8b09b863dbc50110cd98f1be3b96198c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</sys_scope>
+        <sys_update_name>sys_nlu_intent_c9f93063dbc50110cd98f1be3b9619ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 13:57:48</sys_updated_on>
+    </sys_nlu_intent>
+</record_update>

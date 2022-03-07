@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_utterance">
+    <sys_nlu_utterance action="DELETE">
+        <intent display_value="issues">c9f93063dbc50110cd98f1be3b9619ba</intent>
+        <original_utterance/>
+        <primary_utterance/>
+        <sys_class_name>sys_nlu_utterance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 13:58:18</sys_created_on>
+        <sys_id>141ab863dbc50110cd98f1be3b961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>issue</sys_name>
+        <sys_package display_value="CI NLU - Krishna " source="8b09b863dbc50110cd98f1be3b96198c">8b09b863dbc50110cd98f1be3b96198c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</sys_scope>
+        <sys_update_name>sys_nlu_utterance_141ab863dbc50110cd98f1be3b961997</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 13:58:18</sys_updated_on>
+        <utterance>issue</utterance>
+    </sys_nlu_utterance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</application>
+        <file_path/>
+        <instance_id>3d1fa96cdb4ef60089535d00cf961994</instance_id>
+        <instance_name>dev34182</instance_name>
+        <name>sys_nlu_utterance_141ab863dbc50110cd98f1be3b961997</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_utterance"><sys_nlu_utterance action="INSERT_OR_UPDATE"><intent display_value="issues">c9f93063dbc50110cd98f1be3b9619ba</intent><original_utterance/><primary_utterance/><sys_class_name>sys_nlu_utterance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-20 13:58:18</sys_created_on><sys_id>141ab863dbc50110cd98f1be3b961997</sys_id><sys_mod_count>0</sys_mod_count><sys_name>issue</sys_name><sys_package display_value="CI NLU - Krishna " source="8b09b863dbc50110cd98f1be3b96198c">8b09b863dbc50110cd98f1be3b96198c</sys_package><sys_policy/><sys_scope display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</sys_scope><sys_update_name>sys_nlu_utterance_141ab863dbc50110cd98f1be3b961997</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-20 13:58:18</sys_updated_on><utterance>issue</utterance></sys_nlu_utterance></record_update>]]></payload>
+        <payload_hash>-167230500</payload_hash>
+        <record_name>issue</record_name>
+        <reverted_from/>
+        <source>a9a53e098d272010d152b9319a2024ca</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 13:58:18</sys_created_on>
+        <sys_id>141a78a3dbc50110cd98f1be3b96195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e77c7edcc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 13:58:18</sys_updated_on>
+        <type>NLU Utterance</type>
+        <update_guid>5c1a78a3c5c501101b8e00a3bf10db5d</update_guid>
+        <update_guid_history>5c1a78a3c5c501101b8e00a3bf10db5d:-167230500</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 14:13:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_nlu_utterance">sys_nlu_utterance</sys_db_object>
+        <sys_id>529b67fcaeb942c7828128fd34757159</sys_id>
+        <sys_metadata>141ab863dbc50110cd98f1be3b961997</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>issue</sys_name>
+        <sys_package display_value="CI NLU - Krishna " source="8b09b863dbc50110cd98f1be3b96198c">8b09b863dbc50110cd98f1be3b96198c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</sys_scope>
+        <sys_scope_delete display_value="">427756f0f0cf4a8fba37a612ed1cff49</sys_scope_delete>
+        <sys_update_name>sys_nlu_utterance_141ab863dbc50110cd98f1be3b961997</sys_update_name>
+        <sys_update_version display_value="sys_nlu_utterance_141ab863dbc50110cd98f1be3b961997">141a78a3dbc50110cd98f1be3b96195e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 14:13:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

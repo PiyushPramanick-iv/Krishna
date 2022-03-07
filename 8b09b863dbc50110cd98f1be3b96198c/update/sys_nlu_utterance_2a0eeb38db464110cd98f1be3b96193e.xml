@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_utterance">
+    <sys_nlu_utterance action="INSERT_OR_UPDATE">
+        <intent display_value="file upload">32fd2f38db464110cd98f1be3b9619c9</intent>
+        <original_utterance/>
+        <primary_utterance/>
+        <sys_class_name>sys_nlu_utterance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 07:04:06</sys_created_on>
+        <sys_id>2a0eeb38db464110cd98f1be3b96193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Upload file</sys_name>
+        <sys_package display_value="CI NLU - Krishna " source="8b09b863dbc50110cd98f1be3b96198c">8b09b863dbc50110cd98f1be3b96198c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</sys_scope>
+        <sys_update_name>sys_nlu_utterance_2a0eeb38db464110cd98f1be3b96193e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 07:04:06</sys_updated_on>
+        <utterance>Upload file</utterance>
+    </sys_nlu_utterance>
+</record_update>

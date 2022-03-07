@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ml_capability_definition_base">
+    <ml_capability_definition_base action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <capability display_value="NLU">b4ddf73453c73300d1dcddeeff7b1288</capability>
+        <current_solution_version>1</current_solution_version>
+        <dataset_language>en</dataset_language>
+        <fields/>
+        <filter/>
+        <request_source>api</request_source>
+        <solution_label>ml_x_680950_global_global_a5cc27f4db464110cd98f1be3b96195b</solution_label>
+        <solution_name>ml_x_680950_global_global_a5cc27f4db464110cd98f1be3b96195b</solution_name>
+        <solution_parameters/>
+        <solution_properties>{"authoringModel":{"intents":[{"name":"file upload","samples":[{"utterance":"Upload file"},{"utterance":"I want upload student list"},{"utterance":"Student list upload"},{"utterance":"upload my list"},{"utterance":"please upload my list"}],"entities":[]},{"name":"import","samples":[{"utterance":"upload excel sheet"},{"utterance":"upload file"},{"utterance":"I want to upload excel sheet"},{"utterance":"Import file"},{"utterance":"I want to upload file"},{"utterance":"Please upload my list into your system"},{"utterance":"I want to upload student list"}],"entities":[]}],"schemaVersion":"NY-1","vocabulary":[],"modelPurpose":"virtual_agent","entities":[{"name":"list","samples":[{"entityAnnotation":"I want to upload student {{phrase\u003d\"list\"}}"}]},{"name":"Sheet","samples":[{"entityAnnotation":"upload excel {{phrase\u003d\"sheet\"}}"}]},{"name":"Upload","samples":[{"entityAnnotation":"I want to {{phrase\u003d\"upload\"}} excel sheet"}]},{"name":"file","samples":[{"entityAnnotation":"I want to upload {{phrase\u003d\"file\"}}"}]},{"name":"import","samples":[{"entityAnnotation":"{{phrase\u003d\"Import\"}} file"}]}],"confidenceThreshold":"0.6","lookupSources":[],"name":"ml_x_680950_global_global_a5cc27f4db464110cd98f1be3b96195b","language":"en","version":"rome.0"},"label":"ml_x_680950_global_global_a5cc27f4db464110cd98f1be3b96195b","name":"ml_x_680950_global_global_a5cc27f4db464110cd98f1be3b96195b","nluTrainingMode":"IntentClassifier","g_bn":"Rome","g_jv":"20.5.0.7","g_bt":"glide-rome-06-23-2021__patch5-12-15-2021","trainingMode":"sync"}</solution_properties>
+        <stopwords>a6282a25533333008c5bddeeff7b12c3</stopwords>
+        <sys_class_name>ml_capability_definition_base</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 06:58:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>65cc27f4db464110cd98f1be3b96195c</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>ml_x_680950_global_global_a5cc27f4db464110cd98f1be3b96195b</sys_name>
+        <sys_package display_value="CI NLU - Krishna " source="8b09b863dbc50110cd98f1be3b96198c">8b09b863dbc50110cd98f1be3b96198c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</sys_scope>
+        <sys_update_name>ml_capability_definition_base_65cc27f4db464110cd98f1be3b96195c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 07:07:04</sys_updated_on>
+        <table/>
+        <training_frequency>run_once</training_frequency>
+        <word_vector_corpus/>
+    </ml_capability_definition_base>
+</record_update>

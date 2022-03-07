@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE">
+        <annotation>[{"start":25,"end":28,"annotatedString":"I want to upload student {{phrase=\"list\"}}"}]</annotation>
+        <entity display_value="list">458d6ff4db464110cd98f1be3b961973</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 07:01:51</sys_created_on>
+        <sys_id>fd8debf4db464110cd98f1be3b9619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>list.I want to upload student list</sys_name>
+        <sys_package display_value="CI NLU - Krishna " source="8b09b863dbc50110cd98f1be3b96198c">8b09b863dbc50110cd98f1be3b96198c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_fd8debf4db464110cd98f1be3b9619d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 07:01:51</sys_updated_on>
+        <utterance display_value="I want to upload student list">c33debf4db464110cd98f1be3b9619d2</utterance>
+    </m2m_sys_nlu_utterance_entity>
+</record_update>

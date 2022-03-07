@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language">
+    <sys_cb_topic_language action="DELETE">
+        <cb_topic_id display_value="Create incident from Chat">3a595d23db490110cd98f1be3b9619e3</cb_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[]</nlu_entities>
+        <nlu_intent>issues</nlu_intent>
+        <nlu_intent_label>issues</nlu_intent_label>
+        <nlu_model>ml_x_680950_global_global_cb99fc23dbc50110cd98f1be3b9619ce</nlu_model>
+        <nlu_model_label>CI Self Service</nlu_model_label>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cb_topic_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 16:15:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>cf5955e3db490110cd98f1be3b9619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CI NLU - Krishna " source="8b09b863dbc50110cd98f1be3b96198c">8b09b863dbc50110cd98f1be3b96198c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</sys_scope>
+        <sys_update_name>sys_cb_topic_language_cf5955e3db490110cd98f1be3b9619a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 16:15:00</sys_updated_on>
+    </sys_cb_topic_language>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</application>
+        <file_path/>
+        <instance_id>3d1fa96cdb4ef60089535d00cf961994</instance_id>
+        <instance_name>dev34182</instance_name>
+        <name>sys_cb_topic_language_cf5955e3db490110cd98f1be3b9619a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language"><sys_cb_topic_language action="INSERT_OR_UPDATE"><cb_topic_id display_value="Create incident from Chat">3a595d23db490110cd98f1be3b9619e3</cb_topic_id><language_code>en</language_code><nlu_entities>[]</nlu_entities><nlu_intent>issues</nlu_intent><nlu_intent_label>issues</nlu_intent_label><nlu_model>ml_x_680950_global_global_cb99fc23dbc50110cd98f1be3b9619ce</nlu_model><nlu_model_label>CI Self Service</nlu_model_label><nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider><sys_class_name>sys_cb_topic_language</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-20 16:15:00</sys_created_on><sys_domain>global</sys_domain><sys_id>cf5955e3db490110cd98f1be3b9619a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CI NLU - Krishna " source="8b09b863dbc50110cd98f1be3b96198c">8b09b863dbc50110cd98f1be3b96198c</sys_package><sys_policy/><sys_scope display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</sys_scope><sys_update_name>sys_cb_topic_language_cf5955e3db490110cd98f1be3b9619a0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-20 16:15:00</sys_updated_on></sys_cb_topic_language></record_update>]]></payload>
+        <payload_hash>-837408582</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>a9a53e098d272010d152b9319a2024ca</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 16:15:00</sys_created_on>
+        <sys_id>8f5955e3db490110cd98f1be3b9619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e784517360000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 16:15:00</sys_updated_on>
+        <type>CB Topic Language</type>
+        <update_guid>c75955e3f4490110e5e25376b4550ba2</update_guid>
+        <update_guid_history>c75955e3f4490110e5e25376b4550ba2:-837408582</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 17:03:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_cb_topic_language">sys_cb_topic_language</sys_db_object>
+        <sys_id>1d89741933b747309864435b521eb900</sys_id>
+        <sys_metadata>cf5955e3db490110cd98f1be3b9619a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CI NLU - Krishna " source="8b09b863dbc50110cd98f1be3b96198c">8b09b863dbc50110cd98f1be3b96198c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CI NLU - Krishna ">8b09b863dbc50110cd98f1be3b96198c</sys_scope>
+        <sys_scope_delete display_value="">427756f0f0cf4a8fba37a612ed1cff49</sys_scope_delete>
+        <sys_update_name>sys_cb_topic_language_cf5955e3db490110cd98f1be3b9619a0</sys_update_name>
+        <sys_update_version display_value="sys_cb_topic_language_cf5955e3db490110cd98f1be3b9619a0">8f5955e3db490110cd98f1be3b9619a2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 17:03:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
